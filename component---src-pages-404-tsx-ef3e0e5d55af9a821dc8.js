@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdotpyi_dev=self.webpackChunkdotpyi_dev||[]).push([[453],{731:function(e,t,n){n.r(t);var l=n(6540),u=n(8128);t.default=e=>l.createElement(u.A,null,l.createElement("h1",null,"404 - Page Not Found"),l.createElement("p",null,"Unfortunately we couldn't find what you were looking for :("))}}]);
+//# sourceMappingURL=component---src-pages-404-tsx-ef3e0e5d55af9a821dc8.js.map
